@@ -4,11 +4,7 @@ test repository
 ## Table of content
 - [About Me](#about-me)
 - [Sub Head 02](#subhead-02)
-- [About Me](#about-me)
-- [About Me](#about-me)
-- [About Me](#about-me)
-- [About Me](#about-me)
-- [About Me](#about-me)
+- [This is another heading](#this-another-heading)
 - [conclution](#conclution)
     - [conclution 02](#conclution-02)
 
